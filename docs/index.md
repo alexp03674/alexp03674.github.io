@@ -9,13 +9,13 @@ Welcome to _The_ [_Sims 4_](https://www.ea.com/en/games/the-sims/the-sims-4)_!_ 
 This manual is meant to help new players get started and gain confidence by overviewing general applications of the game.
 
 
-This guide overviews:
+This guide covers the three game modes:
 >* **Create-A-Sim (CAS)**: Design sims and customize their traits, skills, aspirations, and appearance.
->* **Build mode (BM)**: Build and decorate your sim’s home. 
->* **Live mode (LM)**: Manage needs, emotions, and lives of your sims.
+>* **Build Mode**: Build and decorate your sim’s home. 
+>* **Live Mode**: Manage needs, emotions, and lives of your sims.
 
 
-This guide centers on PC controls. Here is a [guide for Playstation and Xbox](https://thesimsguide.com/sims-4-basic-controls-for-playstation/#:~:text=Xbox%3A%20press%20X%20%2B%20Y%20at%20the%20same,the%20same%20time%2C%20then%20right%20stick%20to%20rotate) controls.
+This guide centers on PC controls. If you are playing on console, the Sims Guide website offers a [guide for Playstation and Xbox](https://thesimsguide.com/sims-4-basic-controls-for-playstation/#:~:text=Xbox%3A%20press%20X%20%2B%20Y%20at%20the%20same,the%20same%20time%2C%20then%20right%20stick%20to%20rotate) controls.
 
 🗒️ **NOTE:** This guide is equipped with some beginner tips and cheat codes. These are not necessary for gameplay but are a great way to enhance your playing!
 
@@ -24,7 +24,7 @@ Whether you’re making yourself, your neighbor, or your celebrity crush, here's
 
 When starting in CAS, the game prompts you to pick to **Create a Story** or **Start from Scratch.**
 
-**Creating a story** expedites the creation process by asking questions and assigning your sim traits, aspirations, and an appearance. If you’re unhappy with the outcome, **everything is changeable**. Saying, “No Thanks” to the story will drop you into customization. You can also download other players’ sims from [the gallery](https://sims.fandom.com/wiki/The_Sims_4_Gallery). 
+**Create a Story** expedites the creation process by asking questions and assigning your sim traits, aspirations, and an appearance. If you’re unhappy with the outcome, _everything is changeable_. Saying, “No Thanks” to the story will drop you into customization. You can also download other players’ sims from [the gallery](https://sims.fandom.com/wiki/The_Sims_4_Gallery). 
 
 ![The Create a Sim main screen, showing a sim against a blue background](https://hackmd.io/_uploads/SkvQElPJbx.png)
 
@@ -32,7 +32,7 @@ When starting in CAS, the game prompts you to pick to **Create a Story** or **St
 ![Hexagonal icons where you select traits and apsirations, each filled with a diverse image](https://hackmd.io/_uploads/S1yqrePk-g.png)
 
 [Traits](https://sims.fandom.com/wiki/Trait_(The_Sims_4)) are cornerstones of your sim’s personality, determining how they interact with their environment. 
->Traits are **permanent** once you finish your sim.
+>🗒️ **NOTE:** Traits are **permanent** once you finish your sim.
 
 [Aspirations](https://sims.fandom.com/wiki/Aspiration_(The_Sims_4)) function as your sim’s ultimate life goal.
 
@@ -54,15 +54,15 @@ Clicking on your sim opens the **appearance wheel**. Clicking different body par
 
 
 Above the column listing clothing choices, there is a row of icons, each relating to a specific social setting. The type of clothing shown depends on the selected setting.
->* To the left of your sim, the two vertical sliders correspond to muscularity and weight.
+To the left of your sim, the two vertical sliders correspond to muscularity and weight.
 
-💡TIP: If you want to precisely modify your sim, enter **detail-edit-mode** by clicking on the eyeglass icon to the left of your sim’s head.
+💡**TIP:** If you want to precisely modify your sim, enter **detail-edit-mode** by clicking on the eyeglass icon to the left of your sim’s head.
 
 Finally, give your sim a name in the top left corner. Click the checkmark in the bottom right, and you’re done!
 
 ## Controls
 
-Before you begin playing as your sim, let’s overview the controls for BM and LM.
+Before you begin playing as your sim, let’s overview the controls for Build Mode and Live Mode.
 Camera controls in these modes are identical and are for trackpad and mouse unless otherwise noted.
 
 #### Camera Controls 
@@ -84,7 +84,7 @@ So, you made your sim and are ready to release them into the world! But wait—t
 After exiting CAS, the game prompts you to pick a world to live in. It doesn’t matter which world you pick—your sim can always move later.
 Once you’ve selected your world, choose a lot to move your sim into. 
 
-Empty lots let you build your house with your remaining funds whereas built lots let you purchase a pre-furnished or unfurnished home. If you don’t like the layout, you can change it in BM; it’s completely customizable! (Just keep an eye on your funds).
+Empty lots let you build your house with your remaining funds whereas built lots let you purchase a pre-furnished or unfurnished home. If you don’t like the layout, you can change it in Build Mode; it’s completely customizable! (Just keep an eye on your funds).
 
 🗒️ **NOTE:** Your sim’s household always starts with 20,000 Simoleons. 
 
@@ -93,16 +93,16 @@ Empty lots let you build your house with your remaining funds whereas built lots
 ![Sims build mode open, showing multiple panels and a grid above a housing lot](https://hackmd.io/_uploads/Sy2XmbOyWl.jpg)
 
 
-Alright! You’ve bought your lot and moved in! The game drops your sim into LM, and you can’t modify your home from this mode. To access BM, click the hammer and wrench icon in the top right menu. 
+Alright! You’ve bought your lot and moved in! The game drops your sim into Live Mode, and you can’t modify your home from this mode. To access Build Mode, click the hammer and wrench icon in the top right menu. 
 
-🗒️ **NOTE:** When you enter BM, your sim and time will pause.
+🗒️ **NOTE:** When you enter Build Mode, your sim and time will pause.
 
 Wow, that’s a lot of stuff on the screen! No worries, we detail each feature below.
 
 #### The Grid
 ![Top down view of a house in build mode, showcasing the white grind around the property](https://hackmd.io/_uploads/Hypex-wkZg.jpg)
 
-There will be a white grid surrounding the floor of your lot. This is the buildable area, and the tiles that items will align to. It ensures the walls of your home and the items within don’t interrupt sims movements through the space.
+You will see a white grid surrounding the floor of your lot. The grid represents the buildable area, and the tiles that items will align to. The grid ensures the walls of your home and the items within don’t interrupt sims movements through the space.
 
 To hide the grid, press G.
 #### The Tool Bar
@@ -119,9 +119,9 @@ The tool bar, at the top middle of the screen, holds these essential tools (from
 >* Bulldoze
 >>* Bulldoze Lot
 >>* Bulldoze Terrain
->* Time of day (only for simulating in BM)
+>* Time of day (only for simulating in Build Mode)
 >
-For an in-depth look at these tools and other aspects of BM, see this BM [Guide by the SimsWiki](https://www.google.com/url?q=https://sims.fandom.com/wiki/Build_mode_(The_Sims_4)%23Build_mode_tools&sa=D&source=docs&ust=1762210371025807&usg=AOvVaw1NSLz3Ll5FE7K5XmW_nOZ0).
+For an in-depth look at these tools and other aspects of Build Mode, see this Build Mode [Guide by the SimsWiki](https://www.google.com/url?q=https://sims.fandom.com/wiki/Build_mode_(The_Sims_4)%23Build_mode_tools&sa=D&source=docs&ust=1762210371025807&usg=AOvVaw1NSLz3Ll5FE7K5XmW_nOZ0).
 #### Lot Info Panel
 ![Two menues showcasing proptery lot details](https://hackmd.io/_uploads/BJg_G-Pybx.jpg)
 
@@ -132,13 +132,13 @@ The [Lot Info Panel](https://www.google.com/url?q=https://sims.fandom.com/wiki/B
 
 
 The Build Buy Menu is the large panel at the bottom left of your screen with three categories. You can switch between categories by clicking on their respective icons flush to the left side of the menu. 
->* [Build Catalog](https://www.google.com/url?q=https://sims.fandom.com/wiki/Build_mode_(The_Sims_4)%23Build&sa=D&source=docs&ust=1762210371031774&usg=AOvVaw2rNeFlzT3p8qsdfuc88mOS) (house icon): It’s the first tab opened when you enter BM, with a large interactive house image, and is the primary directory for items relevant to exterior decor and foundational building.
->* Objects-by-Room (chair-in-a-box icon): It brings up a large interactive image of a kitchen setting. To move between rooms, click the related icons located above the interactive image.
->* Objects-by-Function (single chair icon): It contains a drop down menu to select specific functions, like surface or plumbing. 
+>* [Build Catalog](https://www.google.com/url?q=https://sims.fandom.com/wiki/Build_mode_(The_Sims_4)%23Build&sa=D&source=docs&ust=1762210371031774&usg=AOvVaw2rNeFlzT3p8qsdfuc88mOS) (house icon): opens when you enter Build Mode, with a large interactive house image, and is the primary directory for items relevant to exterior decor and foundational building.
+>* Objects-by-Room (chair-in-a-box icon): brings up a large interactive image of a kitchen setting. To move between rooms, click the related icons located above the interactive image.
+>* Objects-by-Function (single chair icon): contains a drop down menu to select specific functions, like surface or plumbing. 
 >
 💡**TIP**:  You can resell any purchased item with the sledgehammer. 
 ### Common Questions
-There are many aspects to BM, so here are a few questions you might ask yourself as you’re exploring BM.
+As you explore Build Mode, below are a few questions you might ask yourself.
 
 >*“I want to push this object against the wall, but the game won’t let me. Why?”*
 
@@ -147,7 +147,7 @@ The game is particular about where items can go. To place objects without constr
 ![Panel opened showing the cheat window. It is blank besides one line of text saying "MoveObjects cheat is ON"](https://hackmd.io/_uploads/ryrkPWPyZg.jpg)
 
 
-💡**TIP**: Freely placing objects might impact their functionality. Play-test in LM when building with cheats.
+💡**TIP**: Freely placing objects might impact their functionality. Play-test in Live Mode when building with cheats.
 
 >*“Woah, I just went down a floor level, and it’s really dark. What is this?”*
 
@@ -155,18 +155,18 @@ Welcome to the **basement**! Basement levels function the same as your above-gro
 
 ![Basement of sim's house, or white grid over a black background](https://hackmd.io/_uploads/rybsYbPk-g.jpg)
 
->*“There’s an object in the world that I really like, but I can’t find it in BM. Why?”*
+>*“There’s an object in the world that I really like, but I can’t find it in Build Mode. Why?”*
 
-The object is likely a part of the **debug menu**. Debug items are used in world, but not available for purchase in BM. However, using cheats lets you access these items for free in BM. See this [debug guide](https://www.google.com/url?q=https://www.gamesradar.com/the-sims-4-debug-cheat/&sa=D&source=docs&ust=1762210371016101&usg=AOvVaw3UgFpwg4F91T4yNLu2M4tj) for a better look at how to use it.
+The object is likely a part of the **debug menu**. Debug items are used in world, but not available for purchase in Build Mode. However, using cheats lets you access these items for free in Build Mode. See this [debug guide](https://www.google.com/url?q=https://www.gamesradar.com/the-sims-4-debug-cheat/&sa=D&source=docs&ust=1762210371016101&usg=AOvVaw3UgFpwg4F91T4yNLu2M4tj) for a better look at how to use it.
 
 ![Partial catalogue of debug items displaying the relevant cheat to pull up the menu.](https://hackmd.io/_uploads/BJluXZukWx.jpg)
 
-BM is one of the more complicated aspects of the game, but you’ll learn more features as you progress. Right now, this overview is a great start to familiarize yourself with the basics of BM.
+Build Mode is one of the more complicated aspects of the game, but you’ll learn more features as you progress. Right now, this overview is a great start to familiarize yourself with the basics of Build Mode.
 
-To return to LM, click the two-people icon located in the top right menu.
+To return to Live Mode, click the two-people icon located in the top right menu.
 
 ## Live Mode
-You have your character and house, and now you’re ready to play as your sim! Here’s what to know about LM.
+You have your character and house, and now you’re ready to play as your sim! Here’s what to know about Live Mode.
 
 ### Controlling Sims 
 Look at your beautiful sim! Uh-Oh, where are they? If you can’t find them in the world, **left-click their portrait** in the household panel. To follow them, **right click their household portrait**.
@@ -215,7 +215,7 @@ You chose an aspiration for your sim when you made them, and to see the tasks to
 Some wants and aspirations involve learning skills! 
 
 >* Your sim’s skills and their levels are under the **Skills** tab in the UP.
->>* Don’t fret if this is blank! BM contains items that increase skills, or your sim can purchase a book on a skill. 
+>>* Don’t fret if this is blank! Build Mode contains items that increase skills, or your sim can purchase a book on a skill. 
 >>>* To buy a book, click on any bookshelf. 
 
 >* Reaching higher levels of skills unlocks new abilities.
