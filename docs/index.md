@@ -6,7 +6,7 @@ Welcome to _The_ [_Sims 4_](https://www.ea.com/en/games/the-sims/the-sims-4)_!_ 
 
 ## About this Manual
 
-This manual is meant to help new players get started and gain confidence by overviewing general applications of the game.
+This manual is designed to help new players get started and gain confidence by overviewing general applications of the game.
 
 
 This guide covers the three game modes:
