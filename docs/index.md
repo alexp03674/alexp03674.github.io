@@ -32,6 +32,7 @@ When starting in CAS, the game prompts you to pick to **Create a Story** or **St
 ![Hexagonal icons where you select traits and apsirations, each filled with a diverse image](https://hackmd.io/_uploads/S1yqrePk-g.png)
 
 [Traits](https://sims.fandom.com/wiki/Trait_(The_Sims_4)) are cornerstones of your sim’s personality, determining how they interact with their environment. 
+
 🗒️ **NOTE:** Traits are **permanent** once you finish your sim.
 
 [Aspirations](https://sims.fandom.com/wiki/Aspiration_(The_Sims_4)) function as your sim’s ultimate life goal.
