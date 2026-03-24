@@ -7,10 +7,10 @@ body {
 
 h1{
     font-family: "Comic Sans MS", Georiga, serif;
-    color: red;
+    color: rgb(85, 92, 92);
 }
 
 a{
-    color: purple;
+    color: rgb(128, 0, 75);
     text-decoration: none;
 }
