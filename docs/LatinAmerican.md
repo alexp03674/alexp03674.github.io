@@ -1,29 +1,39 @@
-# Latin American Food
-The best Latin American restuarnt in Blacksburg is El Rodeo. There are other restuarnts in the Christiansburg area - ..... - but El Rodeo is the main Latin American resturant in town. Some other options include:   
+# Latin American:
+Blacksburg does not have a large variety of Latin American restaurants, so the most common spot people go to for Latin American food is definitely El Rodeo. 
 
-## El Rodeo North Main
-(insert picture of restaurant)
-### Atmosphere
-El Rodeo offers a great chill spot to get Mexican food. The vibe is really easygoing, with lots of college students present. The service time is exceptionally fast. This restuarant offers close access to downtown Blacksburg, so many people start their nights out here for dinner. It is also a popular spot for greek life events, family meals, and celebratory dinners. 
-### Menu Overview
-[El Rodeo](https://www.elrodeonorthmain.com/) has Mexican-American food. [The menu](https://www.elrodeonorthmain.com/menu/) is rather large. It is divided into sections for dips, nachos, soup, enchiladas, quesadillas, combination dinners, burritos, fajitas, seafood, steak, chicken, mixed, side orders, a la carte, and desserts. There is also a kid's menu available. 
+## El Rodeo
+![Picture of El Rodeo's logo](https://fisherman.gumlet.io/public/elrodeo/El_Rodeo_Logo-page-001_1.png)
+El Rods, as it is commonly known by locals, is a Mexican-American restaurant with two locations in Blacksburg. One is located on North Main St. and the other is on South Main St. The differences between the two are minimal; but the South Main location offers more seating with slightly higher prices on average.
 
-Each section focuses on classic Mexican-American dishes
+### Menu
+![Nachos from El Rodeo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNEEJQZox18jm3dQDmEa4EOn8iAX9TJeFNw&s)
 
-The drink menu is extensive, with multiple flavors of margaritas, including lime, strawberry, and mango. 
+The main dinner menu at El Rods features a large variety of Mexican-American food, including quesadillas, burritos, enchiladas, and other classic Mexican dishes.  
 
-There is a sepecial menu given for lunch between 11 a.m. and 3 p.m. everyday except sunday. 
-### Price 
-The average meal is $10-20 dollars without drinks. 
+Side orders of queso, rice and beans, and a la carte items are available alongside classic Mexican desserts if an entree alone isn’t enough food. 
+El Rodeo is known for their drink menu as well, featuring multiple flavors of margaritas. Flavors include lime, mango, peach, raspberry, and strawberry. Frozen or on the rocks classic margaritas are available alongside a variety of specialty margaritas. 
 
-Drinks range from $5 on special deal days to $10 depending on what you order. 
-### Location
-El Rodeo has two locations in Blacksburg. This one is on North Main Street on the northern edge of downtown Blacksburg. The restaurant has parking availabile on site.
->Address: 623 N Main St. Blacksburg.
+> [The full menu for the North Main location.](https://www.elrodeonorthmain.com/menu/)  
+[The full menu for the South Main location.](https://elrodeoblacksburg.com/menu.html)  
 
-The second location is on South Main Street. The difference between the two restaurnts are minimal. They offer similar atmospheres and simiarly priced menus, though the south main location is known to have slightly higher prices. 
+### Reviews and Pricing
+North Main - ⭐⭐⭐⭐.3 | $10-20
 
-### Personal Recomendations 
+South Main - ⭐⭐⭐⭐.1 | $10-20
 
-### Rating and Reviews 
-El Rodeo on North Main has a 4.3 star rating on Google. 
+Reviews are overall very positive, describing the restaurants as festive, easygoing Mexican food. 
+
+### Atmosphere and Location
+The atmosphere inside both locations offer great, relaxed vibes. The workers are friendly and casual, with lots of college students and families dining there every night. 
+
+The North Main St. location’s address is 623 N Main St. Blacksburg.
+There is parking on location, directly in front and behind the restaurant. 
+
+The South Main Street location’s address is 1540 S Main St Ste 100, Blacksburg. 
+
+>⚠️This location is a part of a shopping centre, making parking difficult to find during busy times of the day, but there are spaces surrounding the restaurant. 
+
+### Recommendations
+The arroz con pollo is my personal recommendation. It is a mixture of rice, cheese, and grilled chicken, and is absolutely delicious. 
+
+For drinks, you can’t go wrong with any of the margaritas, but I’d recommend the classic frozen lime marg. 

@@ -1,4 +1,10 @@
-site_name: Blacksburg Global Foods
+site_name: Tour De Blacksburg
 site_url: https://alexp03674.github.io/
 theme:
   name: material
+nav:
+  - Home: 'index.md'
+  - East Asian: 'EastAsian.md'
+  - Latin American: 'LatinAmerican.md'
+  - Mediterranean and Middle Eastern: 'MiddleEastern.md'
+  - South Asian: 'SouthAsian.md'
