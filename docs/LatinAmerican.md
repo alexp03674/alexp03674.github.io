@@ -19,9 +19,9 @@ El Rodeo is known for their drink menu as well, featuring multiple flavors of ma
 ### Reviews and Pricing
 North Main - 4.3 star rating | $10-20
 
-South Main - 4.1 star rating | $10-20
+South Main - 4.1 star rating | $10-20 
 
-Reviews are overall very positive, describing the restaurants as festive, easygoing Mexican food. 
+Reviews are overall very positive, describing the restaurants as festive, easygoing Mexican-American food. 
 
 ### Location and Atmosphere
 The atmosphere inside both locations offer great, relaxed vibes. The workers are friendly and casual, with lots of college students and families dining there every night. 
