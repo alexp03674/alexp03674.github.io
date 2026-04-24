@@ -131,6 +131,22 @@ h2 {
   background-blend-mode: hard-light;
 }
 
+.aboutmain {
+  max-width: 1050px;
+  margin: 0 auto;
+  background-color: rgb(49, 214, 243);
+  border: 15px solid rgb(192, 8, 8);
+  padding: 10px;
+  background-image: url(images/in\ the\ dark\ mirror.jpg);
+  background-blend-mode: hard-light;
+}
+
+.aboutbody {
+    background-color: rgb(184, 50, 50);
+    background-image: url(images/Contingency.jpg);
+    background-blend-mode: difference;
+}
+
 .card {
   border: 7px solid rgb(54, 139, 179);
   border-radius: 0;
@@ -150,6 +166,16 @@ h2 {
     background-color: white;
 }
 
+.listcolor {
+    color: rgb(7, 46, 53);
+    border: 7px solid rgb(65, 247, 65);
+    font-family: helevtica;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(255,255,255,0.9);
+}
+
 footer {
     background-color: rgb(54, 139, 179, 0.7);
     border: rgb(255, 241, 117) 5px solid;
@@ -159,3 +185,22 @@ footer {
     font-family: helvetica;
     color: black;
 }
+
+.aboutimage {
+    max-width: 50%;
+    height: auto;
+    Opacity: 0.9;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.aboutheading{
+    color: rgb(192, 8, 8);
+    font-family: fantasy;
+    text-align: center;
+    margin: 5px;
+    background: rgba(255,255,255,0.9);
+    border: 7px solid rgb(65, 247, 65);
+    padding: 5px;
+}
+ 
