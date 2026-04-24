@@ -72,11 +72,6 @@ main {
     object-fit: cover;
 }
 
-.carousel:hover .carousel-caption{
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-
 .hero-overlay {
     position: absolute;
     inset: 0;
@@ -86,11 +81,6 @@ main {
     z-index: 10;
     font-weight: bold;
     pointer-events: none;
-}
-
-.carousel:hover .hero-overlay {
-  opacity: 0;
-  transition: opacity 0.3s ease;
 }
 
 .section-divider {
@@ -176,7 +166,7 @@ h2 {
     background-color: rgb(255,255,255,0.9);
 }
 
-footer {
+.mainfooter {
     background-color: rgb(54, 139, 179, 0.7);
     border: rgb(255, 241, 117) 5px solid;
     background-image: url(images/Painttexture.jpg);
@@ -184,6 +174,14 @@ footer {
     font-weight: bold;
     font-family: helvetica;
     color: black;
+}
+
+.aboutfooter {
+    background-color: rgb(192, 8, 8);
+    background-image: url(images/glass.jpg);
+    background-blend-mode: difference;
+    font-weight: bold;
+    font-family: helvetica;
 }
 
 .aboutimage {
@@ -203,4 +201,23 @@ footer {
     border: 7px solid rgb(65, 247, 65);
     padding: 5px;
 }
- 
+
+.aboutlink {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-skip-ink: none;
+}
+
+.paintingbody {
+    background-color: rgb(152, 37, 197);
+    background-image: url(images/glass.jpg);
+    background-blend-mode: multiply;
+}
+
+.paintingmain {
+  max-width: 1150px;
+  margin: 0 auto;
+  background-color: rgb(152, 37, 197,0.1);
+  padding: 10px;
+}
+
