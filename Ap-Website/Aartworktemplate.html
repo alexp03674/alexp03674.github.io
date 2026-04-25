@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en" class="h-100 w-100"> 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bootstrap demo</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">  
+  <link rel="stylesheet" href="website.css">
+</head> 
+<body class="h-100 w-100 d-flex flex-column artbody">
+  <nav class="navbar navbar-expand-lg bg-light custom-navbar aboutnav">
+  <div class="container">
+
+    <a id="random-link" class="navbar-brand tooltip-container" href="#"><img src="images/images.svg"><span class="tooltip-text">Random Artwork</span></a>
+
+    <button class="navbar-toggler" type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbar"
+      aria-controls="navbar"
+      aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" role="button"
+     data-bs-toggle="dropdown" aria-expanded="false">
+    Collections
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="Ceremony.html">Ceremony</a></li>
+    <li><a class="dropdown-item" href="#">???</a></li>
+    <li><a class="dropdown-item" href="#">???</a></li>
+  </ul>
+</li>
+        <li class="nav-item"><a class="nav-link" href="Paintings.html">Paintings</a></li>
+        <li class="nav-item"><a class="nav-link" href="Drawings.html">Drawings</a></li>
+        <li class="nav-item"><a class="nav-link" href="Find.html">Find @</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+<main class="artworkmain">
+<div>
+    <img class = "artworkimg" src="images/Alone Again.jpeg">
+  <p class="paintingtext"> <b>Alone Again</b><br>
+Acrylic, Pen; Canvas 12x16in. ©2025<br>
+Final Painting and number 21 in Ceremony.<br>
+<a href="paintings.html" class="back-link">← Back to Gallery</a></p>
+</div>
+
+</main>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+    crossorigin="anonymous"></script>
+    <script>
+  const pages = [
+    "aloneagain.html",
+    "paint.html",
+    "painting3.html",
+    "painting4.html"
+  ];
+
+  document.getElementById("random-link").addEventListener("click", function(e) {
+    e.preventDefault();
+
+    const randomPage = pages[Math.floor(Math.random() * pages.length)];
+    window.location.href = randomPage;
+  });
+</script>
+</body>

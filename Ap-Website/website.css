@@ -56,6 +56,13 @@
   display: inline-flex;
   align-items: center;
 }
+@media (max-width: 991px) {
+  .navbar-collapse {
+    background-color: white;
+    padding: 1rem;
+    border: 5px solid rgb(255, 241, 117);
+  }
+}
 
 main {
     width: 100%;
@@ -69,6 +76,7 @@ main {
 
 .carousel img{
     height: 100vh;
+    width: 100vw;
     object-fit: cover;
 }
 
@@ -137,7 +145,7 @@ h2 {
     background-blend-mode: difference;
 }
 
-.card {
+.homecard {
   border: 7px solid rgb(54, 139, 179);
   border-radius: 0;
 }
@@ -218,6 +226,119 @@ h2 {
   max-width: 1150px;
   margin: 0 auto;
   background-color: rgb(152, 37, 197,0.1);
+  border-left: 5px solid rgb(152, 37, 197, 0.2);
+  border-right: 5px solid rgb(152, 37, 197, 0.2); 
   padding: 10px;
 }
 
+.paintingtext {
+    color: rgb(255, 241, 117);
+    font-family: helevtica;
+    padding: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.paintingcard {
+    background-color:rgb(0, 0, 0, 0);
+    border: none;
+    margin: 30px;
+}
+
+.cardtext {
+    color: rgb(255, 241, 117);
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.card-container {
+    display: flex;         
+    flex-direction: row;   
+    gap: 20px;            
+    flex-wrap: wrap;       
+}
+
+.card {
+    flex: 1;               
+    min-width: 250px;      
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card-img-top-painting {
+    border: 10px ridge black;
+}
+
+.artbody {
+    background-image: url(images/rift.jpg);
+    background-color: rgb(149, 125, 255);
+    background-blend-mode: diference;
+}
+
+.artworkmain{
+    max-width: 1150px;
+    margin: 75px auto;
+    padding: 10px;
+    background-color: rgb(152, 37, 197,0.1); 
+    display: grid;
+    place-items: center;
+    
+}
+
+.artworkimg {
+    max-width: 80vw;
+    max-height: 80vh;
+    border: 20px ridge white;
+}
+
+.back-link {
+    color: rgb(255, 241, 117)
+}
+
+.tooltip-container {
+  position: center;
+  display: inline-flex;
+  
+}
+
+.tooltip-text {
+  position: absolute;
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  
+  background-color: rgb(255, 241, 117);
+  color: black;
+  padding: 8px 14px;
+  font-size: 1rem;
+  white-space: nowrap;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.tooltip-container:hover .tooltip-text {
+  opacity: 1;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.drawingbody {
+    background-image: url(images/glassshep.PNG
+    );
+    background-color: rgb(52, 15, 219);
+    background-blend-mode: multiply;
+}
+
+.drawingmain {
+  max-width: 1150px;
+  margin: 0 auto;
+  background-color: rgb(52, 15, 219, 0.1); 
+  padding: 10px;
+}

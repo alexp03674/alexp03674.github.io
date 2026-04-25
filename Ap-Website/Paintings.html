@@ -13,7 +13,7 @@
   <nav class="navbar navbar-expand-lg bg-light custom-navbar">
   <div class="container">
 
-    <a class="navbar-brand" href="index.html"><img src="images/images.svg"></a>
+    <a id="random-link" class="navbar-brand tooltip-container" href="#"><img src="images/images.svg"><span class="tooltip-text">Random Artwork</span></a>
 
     <button class="navbar-toggler" type="button"
       data-bs-toggle="collapse"
@@ -50,10 +50,59 @@
 </nav>
 <main>
 <div class="paintingmain">
-    <h1>Test</h1>
+    <h1>Gallery</h1>
+    <p class="paintingtext">click images for more info</p> 
+    <div class="card-container" id="gallery"></div>
 </div>
 </main>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
     crossorigin="anonymous"></script>
+    <script>
+document.getElementById("random-link").addEventListener("click", function(e) {
+  e.preventDefault();
+
+  const random = paintings[Math.floor(Math.random() * paintings.length)];
+  window.location.href = random.link;
+});
+</script>
+<script>
+const paintings = [
+  {
+    title: "Alone Again",
+    img: "images/Alone Again.jpeg",
+    link: "Aloneagain.html"
+  },
+  {
+    title: "Beanstalk",
+    img: "images/Beanstalk.jpeg",
+    link: "Beanstalk.html"
+  },
+  {
+    title: "Bedroom",
+    img: "images/bedroom.jpg",
+    link: "Bedroom.html"
+  },
+];
+</script>
+<script>
+const gallery = document.getElementById("gallery");
+
+paintings.forEach(p => {
+  const card = document.createElement("div");
+  card.className = "card paintingcard";
+
+  card.innerHTML = `
+    <a href="${p.link}">
+      <img src="${p.img}" loading="lazy"
+           class="card-img-top-painting card-img-top">
+    </a>
+    <div class="card-body">
+      <h5 class="card-title cardtext">${p.title}</h5>
+    </div>
+  `;
+
+  gallery.appendChild(card);
+});
+</script>
 </body>
