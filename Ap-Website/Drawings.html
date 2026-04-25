@@ -13,7 +13,7 @@
   <nav class="navbar navbar-expand-lg bg-light custom-navbar">
   <div class="container">
 
-    <a id="random-link" class="navbar-brand tooltip-container" href="#"><img src="images/images.svg"><span class="tooltip-text">Random Artwork</span></a>
+    <a id="random-link" class="navbar-brand tooltip-container" href="#"><img src="images/image.webp"><span class="tooltip-text">Random Artwork</span></a>
 
     <button class="navbar-toggler" type="button"
       data-bs-toggle="collapse"
@@ -70,14 +70,19 @@ document.getElementById("random-link").addEventListener("click", function(e) {
 const drawings = [
   {
     title: "Sun Spear",
-    img: "images/Sunspear.jpg",
+    img: "images/sunspear.webp",
     link: "Aloneagain.html"
   },
   {
-    title:"Cloud",
-    img: "images/Logo.jpg",
+    title:"Cloudy",
+    img: "images/cloudy.webp",
     link: "aloneagain.html"
   },
+  {
+    title:"Family",
+    img: "images/family.webp",
+    link: "aloneagain.html"
+  }
 ];
 </script>
 <script>
@@ -99,5 +104,20 @@ drawings.forEach(p => {
 
   gallery.appendChild(card);
 });
+</script>
+<script>
+  const pages = [
+    "aloneagain.html",
+    "paint.html",
+    "painting3.html",
+    "painting4.html"
+  ];
+
+  document.getElementById("random-link").addEventListener("click", function(e) {
+    e.preventDefault();
+
+    const randomPage = pages[Math.floor(Math.random() * pages.length)];
+    window.location.href = randomPage;
+  });
 </script>
 </body>

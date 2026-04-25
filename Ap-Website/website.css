@@ -13,7 +13,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("images/painttexturehead.jpg");
+  background-image: url("images/painttexturehead.webp");
   background-size: cover;
   background-position: center;
   z-index: 0;
@@ -101,7 +101,7 @@ main {
 
 body {
     background-color: rgb(54, 139, 179);
-    background-image: url(images/Alone\ Again.jpeg);
+    background-image: url(images/aloneagain.webp);
     background-blend-mode: difference;
 }
 
@@ -125,7 +125,7 @@ h2 {
   background-color: rgb(255, 241, 117);
   border: 9px solid rgb(54, 139, 179);
   padding: 20px;
-  background-image: url(images/Museum\ Exhibition.jpeg);
+  background-image: url(images/museumexhibition.webp);
   background-blend-mode: hard-light;
 }
 
@@ -135,13 +135,13 @@ h2 {
   background-color: rgb(49, 214, 243);
   border: 15px solid rgb(192, 8, 8);
   padding: 10px;
-  background-image: url(images/in\ the\ dark\ mirror.jpg);
+  background-image: url(images/inthedarkmirror.webp);
   background-blend-mode: hard-light;
 }
 
 .aboutbody {
     background-color: rgb(184, 50, 50);
-    background-image: url(images/Contingency.jpg);
+    background-image: url(images/contingency.webp);
     background-blend-mode: difference;
 }
 
@@ -177,7 +177,7 @@ h2 {
 .mainfooter {
     background-color: rgb(54, 139, 179, 0.7);
     border: rgb(255, 241, 117) 5px solid;
-    background-image: url(images/Painttexture.jpg);
+    background-image: url(images/painttexture.webp);
     background-blend-mode: luminosity;
     font-weight: bold;
     font-family: helvetica;
@@ -186,7 +186,7 @@ h2 {
 
 .aboutfooter {
     background-color: rgb(192, 8, 8);
-    background-image: url(images/glass.jpg);
+    background-image: url(images/glass.webp);
     background-blend-mode: difference;
     font-weight: bold;
     font-family: helvetica;
@@ -218,7 +218,7 @@ h2 {
 
 .paintingbody {
     background-color: rgb(152, 37, 197);
-    background-image: url(images/glass.jpg);
+    background-image: url(images/glass.webp);
     background-blend-mode: multiply;
 }
 
@@ -271,7 +271,7 @@ h2 {
 }
 
 .artbody {
-    background-image: url(images/rift.jpg);
+    background-image: url(images/rift.webp);
     background-color: rgb(149, 125, 255);
     background-blend-mode: diference;
 }
@@ -330,7 +330,7 @@ h2 {
 }
 
 .drawingbody {
-    background-image: url(images/glassshep.PNG
+    background-image: url(images/glass2.webp
     );
     background-color: rgb(52, 15, 219);
     background-blend-mode: multiply;
@@ -341,4 +341,29 @@ h2 {
   margin: 0 auto;
   background-color: rgb(52, 15, 219, 0.1); 
   padding: 10px;
+}
+
+.findbody {
+    background-image: url(images/collage2city.webp);
+    background-color: rgb(73, 71, 70);
+    background-blend-mode: luminosity;
+}
+
+.aboutfooter {
+    font-weight: bold;
+    font-family: helvetica;
+}
+
+.footertext {
+    color: rgb(255, 241, 117);
+    font-family: helevtica;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.ceremonybody {
+    background-image: url(images/aloneagain.webp);
+    background-color: pink;
+    background-blend-mode: difference;
 }
