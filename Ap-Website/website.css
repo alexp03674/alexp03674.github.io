@@ -260,8 +260,8 @@ h2 {
 }
 
 .card {
-    flex: 1;               
-    min-width: 250px;      
+    flex: 0 0 300px;               
+    min-width: 300px;      
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -279,8 +279,7 @@ h2 {
 .artworkmain{
     max-width: 1150px;
     margin: 75px auto;
-    padding: 10px;
-    background-color: rgb(152, 37, 197,0.1); 
+    padding: 10px; 
     display: grid;
     place-items: center;
     
@@ -366,4 +365,17 @@ h2 {
     background-image: url(images/aloneagain.webp);
     background-color: pink;
     background-blend-mode: difference;
+}
+
+.drawingartbody {
+    background-image: url(images/collage2boobs.webp);
+    background-color: rgb(149, 125, 255);
+    background-blend-mode: multiply;
+}
+
+.bioimage {
+    max-height: 150px;
+    border: 2px ridge black;
+    margin-bottom: 5px;
+    margin-top: 5px;
 }
