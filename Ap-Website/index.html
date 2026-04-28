@@ -10,46 +10,9 @@
   <link rel="stylesheet" href="website.css">
 </head> 
 <body class="h-100 w-100 d-flex flex-column">
-  <nav class="navbar navbar-expand-lg bg-light custom-navbar">
-  <div class="container">
-
-    <a id="random-link" class="navbar-brand tooltip-container" href="#"><img src="images/image.webp"><span class="tooltip-text">Random Artwork</span></a>
-
-    <button class="navbar-toggler" type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#navbar"
-      aria-controls="navbar"
-      aria-expanded="false"
-      aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbar">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
-        <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" role="button"
-     data-bs-toggle="dropdown" aria-expanded="false">
-    Collections
-  </a>
-
-  <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="Ceremony.html">Ceremony</a></li>
-    <li><a class="dropdown-item" href="comingsoon.html">OtherWorld</a></li>
-    <li><a class="dropdown-item" href="comingsoon.html">Sproutville</a></li>
-  </ul>
-</li>
-        <li class="nav-item"><a class="nav-link" href="Paintings.html">Paintings</a></li>
-        <li class="nav-item"><a class="nav-link" href="Drawings.html">Drawings</a></li>
-        <li class="nav-item"><a class="nav-link" href="Find.html">Find @</a></li>
-        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-      </ul>
-    </div>
-
-  </div>
-</nav>
+  <div id="navbar-container"></div>
   <main class="container-fluid flex-grow-1 p-0">
-
+<div id="navbar"></div>
       <div id="carouselExampleAutoplaying" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3500">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -139,7 +102,7 @@
 </div>
 <h2 class="mt-5 offset-md-5"> About</h1>
   <p class="offset-md-5 paracolor">🪓Alex P. (AP) is a painter and visual artist<br>
- born in Virginia, November 2003.🪓 <br>
+ born in Virginia.🪓 <br>
      <img class ="bioimage" src="images/musical.webp"> <br>
     <a href="about.html" class="btn btn-primary m-2">More Info</a>
 </p>
@@ -158,21 +121,6 @@
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
     crossorigin="anonymous">
   </script>
-<script>
-  const pages = [
-    "paintingaloneagain.html",
-    "paintingbeanstalk.html",
-    "paintingartiststudio.html",
-    "paintingattheriver.html",
-    "drawingactionhero.html",
-  ];
-
-  document.getElementById("random-link").addEventListener("click", function(e) {
-    e.preventDefault();
-
-    const randomPage = pages[Math.floor(Math.random() * pages.length)];
-    window.location.href = randomPage;
-  });
-</script>
+<script src="random.js"></script>
 </body> 
 </html>

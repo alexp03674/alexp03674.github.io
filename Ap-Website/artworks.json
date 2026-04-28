@@ -1,0 +1,295 @@
+[
+  {
+    "title": "Alone Again",
+    "img": "images/aloneagain.webp",
+    "link": "paintingAloneagain.html",
+    "type": "painting"
+  },
+  {
+    "title": "Artist Studio",
+    "img": "images/artiststudio.webp",
+    "link": "paintingartiststudio.html",
+    "type": "painting"
+  },
+  {
+    "title": "At the River",
+    "img": "images/attheriver.webp",
+    "link": "paintingattheriver.html",
+    "type": "painting"
+  },
+  {
+    "title": "Attic Storage",
+    "img": "images/atticstorage.webp",
+    "link": "paintingatticstorage.html",
+    "type": "painting"
+  },
+  {
+    "title": "Axe Victim",
+    "img": "images/axevictim.webp",
+    "link": "paintingaxevictim.html",
+    "type": "painting"
+  },
+  {
+    "title": "Beanstalk",
+    "img": "images/beanstalk.webp",
+    "link": "paintingBeanstalk.html",
+    "type": "painting"
+  },
+  {
+    "title": "Bedroom",
+    "img": "images/bedroom.webp",
+    "link": "paintingBedroom.html",
+    "type": "painting"
+  },
+  {
+    "title": "Blinding",
+    "img": "images/blinding.webp",
+    "link": "paintingblinding.html",
+    "type": "painting"
+  },
+  {
+    "title": "Brain",
+    "img": "images/brain.webp",
+    "link": "paintingbrain.html",
+    "type": "painting"
+  },
+  {
+    "title": "Camping Trip",
+    "img": "images/campingtrip.webp",
+    "link": "paintingcampingtrip.html",
+    "type": "painting"
+  },
+  {
+    "title": "Cataclysm",
+    "img": "images/cataclysm.webp",
+    "link": "paintingcataclysm.html",
+    "type": "painting"
+  },
+  {
+    "title": "Cliffside Storm",
+    "img": "images/Cliffsidestorm.webp",
+    "link": "paintingcliffsidestorm.html",
+    "type": "painting"
+  },
+  {
+    "title": "Collage 1",
+    "img": "images/collage1.webp",
+    "link": "paintingcollage1.html",
+    "type": "painting"
+  },
+  {"title": "Contingency",
+    "img": "images/contingency.webp",
+    "link": "paintingcontingency.html",
+    "type": "painting"
+  },
+  {
+    "title": "Crown of Barbed Wire",
+    "img": "images/crownofthorns.webp",
+    "link": "paintingcrownofthorns.html",
+    "type": "painting"
+  },
+  {
+    "title": "DNA Bleed",
+    "img": "images/dnableed.webp",
+    "link": "paintingdnableed.html",
+    "type": "painting"
+  },
+  {
+    "title": "Euphoria",
+    "img": "images/Euphoria.webp",
+    "link": "paintingEuphoria.html",
+    "type": "painting"
+  },
+  {
+    "title": "Everything & Nothing",
+    "img": "images/everything&nothing.webp",
+    "link": "paintingeverything&nothing.html",
+    "type": "painting"
+  },
+  {
+    "title": "Fading into Fire",
+    "img": "images/fading.webp",
+    "link": "paintingfading.html",
+    "type": "painting"
+  },
+  {
+    "title": "Fairytale??",
+    "img": "images/fairytale.webp",
+    "link": "paintingfairytale.html",
+    "type": "painting"
+  },
+  {
+    "title": "Forest Onlooking",
+    "img": "images/forestonlooking.webp",
+    "link": "paintingforestonlooking.html",
+    "type": "painting"
+  },
+  {
+    "title": "Free Fall",
+    "img": "images/freefall.webp",
+    "link": "paintingfreefall.html",
+    "type": "painting"
+  },
+  {
+    "title": "Gallery Walk",
+    "img": "images/gallerywalk.webp",
+    "link": "paintinggallerywalk.html",
+    "type": "painting"
+  },
+  {
+    "title": "Garden Flowers",
+    "img": "images/gardenflowers.webp",
+    "link": "paintinggardenflowers.html",
+    "type": "painting"
+  },
+  {
+    "title": "Garden Storm",
+    "img": "images/gardenstorm.webp",
+    "link": "paintinggardenstorm.html",
+    "type": "painting"
+  },
+  {
+    "title": "Ghostly",
+    "img": "images/ghostly.webp",
+    "link": "paintingghostly.html",
+    "type": "painting"
+  },
+  {
+    "title": "Ghoul",
+    "img": "images/ghoul.webp",
+    "link": "paintingghoul.html",
+    "type": "painting"
+  },
+  {
+    "title": "Hiding",
+    "img": "images/hiding.webp",
+    "link": "paintinghiding.html",
+    "type": "painting"
+  },
+  {
+    "title": "Home",
+    "img": "images/home.webp",
+    "link": "paintinghome.html",
+    "type": "painting"
+  },
+  {
+    "title": "Inner Child",
+    "img": "images/innerchild.webp",
+    "link": "paintinginnerchild.html",
+    "type": "painting"
+  },
+  {
+    "title": "In the Dark Mirror",
+    "img": "images/inthedarkmirror.webp",
+    "link": "paintinginthedarkmirror.html",
+    "type": "painting"
+  },
+  {
+    "title": "Jack-O-Lantern",
+    "img": "images/jackolantern.webp",
+    "link": "paintingjackolantern.html",
+    "type": "painting"
+  },
+  {
+    "title": "Jailed",
+    "img": "images/jailed.webp",
+    "link": "paintingjailed.html",
+    "type": "painting"
+  },
+  {
+    "title": "Man Smoking",
+    "img": "images/mansmoking.webp",
+    "link": "paintingmansmoking.html",
+    "type": "painting"
+  },
+  {
+    "title": "Mist Men",
+    "img": "images/mistmen.webp",
+    "link": "paintingmistmen.html",
+    "type": "painting"
+  },
+  {
+    "title": "Museum Exhibition",
+    "img": "images/museumexhibition.webp",
+    "link": "paintingmuseumexhibition.html",
+    "type": "painting"
+  },
+  {
+    "title": "Can you hear the music?",
+    "img": "images/musical.webp",
+    "link": "paintingmusical.html",
+    "type": "painting"
+  },
+  {
+    "title": "Piggy",
+    "img": "images/piggy.webp",
+    "link": "paintingpiggy.html",
+    "type": "painting"
+  },
+  {
+    "title": "Reaching for Something",
+    "img": "images/reaching.webp",
+    "link": "paintingreaching.html",
+    "type": "painting"
+  },
+  {
+    "title": "Rift",
+    "img": "images/rift.webp",
+    "link": "paintingrift.html",
+    "type": "painting"
+  },
+  {
+    "title": "Save Something",
+    "img": "images/savesomething.webp",
+    "link": "paintingsavesomething.html",
+    "type": "painting"
+  },
+  {
+    "title": "Soldier",
+    "img": "images/soldier.webp",
+    "link": "paintingsoldier.html",
+    "type": "painting"
+  },
+  {
+    "title": "Statue in the Garden",
+    "img": "images/statueinthegarden.webp",
+    "link": "paintingstatueinthegarden.html",
+    "type": "painting"
+  },
+  {
+    "title": "Under The Rainbow",
+    "img": "images/undertherainbow.webp",
+    "link": "paintingundertherainbow.html",
+    "type": "painting"
+  },
+  {
+    "title": "When I died I thought they wouldn't miss me",
+    "img": "images/whenidied.webp",
+    "link": "paintingwhenidied.html",
+    "type": "painting"
+  },
+  {
+    "title": "Action Hero",
+    "img": "images/actionhero.webp",
+    "link": "drawingactionhero.html",
+    "type": "drawing"
+  },
+  {
+    "title": "Cloudy",
+    "img": "images/cloudy.webp",
+    "link": "drawingcloudy.html",
+    "type": "drawing"
+  },
+  {
+    "title":"Family",
+    "img": "images/family.webp",
+    "link": "drawingfamily.html",
+    "type": "drawing"
+  },
+  {
+    "title": "Sun Spear",
+    "img": "images/sunspear.webp",
+    "link": "drawingsunspear.html",
+    "type": "drawing"
+  }
+]

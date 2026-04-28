@@ -10,44 +10,7 @@
   <link rel="stylesheet" href="website.css">
 </head> 
 <body class="h-100 w-100 d-flex flex-column artbody">
-  <nav class="navbar navbar-expand-lg bg-light custom-navbar aboutnav">
-  <div class="container">
-
-    <a id="random-link" class="navbar-brand tooltip-container" href="#"><img src="images/image.webp"><span class="tooltip-text">Random Artwork</span></a>
-
-    <button class="navbar-toggler" type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#navbar"
-      aria-controls="navbar"
-      aria-expanded="false"
-      aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbar">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-        <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" role="button"
-     data-bs-toggle="dropdown" aria-expanded="false">
-    Collections
-  </a>
-
-  <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="Ceremony.html">Ceremony</a></li>
-    <li><a class="dropdown-item" href="comingsoon.html">OtherWorld</a></li>
-    <li><a class="dropdown-item" href="comingsoon.html">Sproutville</a></li>
-  </ul>
-</li>
-        <li class="nav-item"><a class="nav-link" href="Paintings.html">Paintings</a></li>
-        <li class="nav-item"><a class="nav-link" href="Drawings.html">Drawings</a></li>
-        <li class="nav-item"><a class="nav-link" href="Find.html">Find @</a></li>
-        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-      </ul>
-    </div>
-
-  </div>
-</nav>
+  <div id="navbar-container"></div>
 <main class="artworkmain">
 <div>
     <img class = "artworkimg" src="images/artiststudio.webp">
@@ -61,21 +24,7 @@ Acrylic; Canvas 8x10in. ©2025<br>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
     crossorigin="anonymous"></script>
-    <script>
-  const pages = [
-     "paintingaloneagain.html",
-    "paintingbeanstalk.html",
-    "paintingattheriver.html",
-    "drawingactionhero.html",
-  ];
-
-  document.getElementById("random-link").addEventListener("click", function(e) {
-    e.preventDefault();
-
-    const randomPage = pages[Math.floor(Math.random() * pages.length)];
-    window.location.href = randomPage;
-  });
-</script>
+    <script src="random.js"></script>
 </body>
 <footer class="mt-auto border-top findfooter">
     <div class="container d-flex flex-wrap justify-content-between align-items-center py-3">

@@ -277,7 +277,7 @@ h2 {
 .artbody {
     background-image: url(images/rift.webp);
     background-color: rgb(149, 125, 255);
-    background-blend-mode: diference;
+    background-blend-mode: difference;
 }
 
 .artworkmain{
@@ -290,9 +290,10 @@ h2 {
 }
 
 .artworkimg {
-    max-width: 80vw;
-    max-height: 80vh;
+    max-width: 90vw;
+    max-height: 90vh;
     border: 20px ridge white;
+    justify-content: center;
 }
 
 .back-link {
