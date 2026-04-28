@@ -48,7 +48,7 @@
     "type": "painting"
   },
   {
-    "title": "Brain",
+    "title": "Brain Damage",
     "img": "images/brain.webp",
     "link": "paintingbrain.html",
     "type": "painting"
@@ -71,12 +71,6 @@
     "link": "paintingcliffsidestorm.html",
     "type": "painting"
   },
-  {
-    "title": "Collage 1",
-    "img": "images/collage1.webp",
-    "link": "paintingcollage1.html",
-    "type": "painting"
-  },
   {"title": "Contingency",
     "img": "images/contingency.webp",
     "link": "paintingcontingency.html",
@@ -86,12 +80,6 @@
     "title": "Crown of Barbed Wire",
     "img": "images/crownofthorns.webp",
     "link": "paintingcrownofthorns.html",
-    "type": "painting"
-  },
-  {
-    "title": "DNA Bleed",
-    "img": "images/dnableed.webp",
-    "link": "paintingdnableed.html",
     "type": "painting"
   },
   {
@@ -116,12 +104,6 @@
     "title": "Fairytale??",
     "img": "images/fairytale.webp",
     "link": "paintingfairytale.html",
-    "type": "painting"
-  },
-  {
-    "title": "Forest Onlooking",
-    "img": "images/forestonlooking.webp",
-    "link": "paintingforestonlooking.html",
     "type": "painting"
   },
   {
@@ -203,12 +185,6 @@
     "type": "painting"
   },
   {
-    "title": "Mist Men",
-    "img": "images/mistmen.webp",
-    "link": "paintingmistmen.html",
-    "type": "painting"
-  },
-  {
     "title": "Museum Exhibition",
     "img": "images/museumexhibition.webp",
     "link": "paintingmuseumexhibition.html",
@@ -236,12 +212,6 @@
     "title": "Rift",
     "img": "images/rift.webp",
     "link": "paintingrift.html",
-    "type": "painting"
-  },
-  {
-    "title": "Save Something",
-    "img": "images/savesomething.webp",
-    "link": "paintingsavesomething.html",
     "type": "painting"
   },
   {
