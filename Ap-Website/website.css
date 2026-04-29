@@ -282,7 +282,7 @@ h2 {
 
 .artworkmain{
     max-width: 1150px;
-    margin: 75px auto;
+    margin: 70px auto;
     padding: 10px; 
     display: grid;
     place-items: center;
@@ -291,7 +291,7 @@ h2 {
 
 .artworkimg {
     max-width: 90vw;
-    max-height: 90vh;
+    max-height: 89vh;
     border: 20px ridge white;
     justify-content: center;
 }
