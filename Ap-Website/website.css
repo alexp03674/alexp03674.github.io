@@ -286,7 +286,6 @@ h2 {
     padding: 10px; 
     display: grid;
     place-items: center;
-    
 }
 
 .artworkimg {
@@ -385,3 +384,58 @@ h2 {
     margin-top: 5px;
 }
 
+.featuredwork {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.featuredworkimg {
+  width: 100%;
+  max-width: 700px; 
+  height: auto;
+  border: 5px ridge white;
+}
+
+.featuredmain {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: rgb(152, 37, 197,0.1);
+  border-left: 5px solid rgb(152, 37, 197, 0.2);
+  border-right: 5px solid rgb(152, 37, 197, 0.2); 
+  border-bottom: 5px solid rgb(152, 37, 197, 0.2);
+  padding: 10px;
+}
+
+.featuredmain .card {
+  flex: 0 0 45%; /* ~2 per row */
+  max-width: 600px;
+}
+
+.featuredmain .card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.featureddrawingmain {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: rgb(52, 15, 219, 0.1);
+  padding: 10px;
+}
+
+.featureddrawingmain .card {
+  flex: 0 0 45%; /* ~2 per row */
+  max-width: 600px;
+}
+
+.featureddrawingmain .card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
