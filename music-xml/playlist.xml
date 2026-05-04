@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>IloveUIhateU</title>
+    <artist>Playboi Carti</artist>
+    <album>Whole Lotta Red</album>
+    <link>https://www.youtube.com/watch?v=pZ6oeHV28b0</link>
+  </track>
+  <track>
+    <title>Surf</title>
+    <artist>Young Thug and Gunna</artist>
+    <album>So Much Fun</album>
+    <link>https://www.youtube.com/watch?v=FRrdo86LPEk</link>
+  </track>
+  <track>
+    <title>Rich Flex</title>
+    <artist>Drake and 21 Savage</artist>
+    <album>Her Loss</album>
+    <link>https://www.youtube.com/watch?v=I4DjHHVHWAE</link>
+  </track>
+  <track>
+    <title>Bound 2</title>
+    <artist>Kanye</artist>
+    <album>Yeezus</album>
+    <link>https://www.youtube.com/watch?v=BBAtAM7vtgc</link>
+  </track>
+  <track>
+    <title>Soundtrack 2 My Life</title>
+    <artist>Kid Cudi</artist>
+    <album>Man on the Moon</album>
+    <link>https://www.youtube.com/watch?v=TEmp41IbU-E</link>
+  </track>
+</playlist>

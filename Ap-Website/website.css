@@ -394,9 +394,17 @@ h2 {
 
 .featuredworkimg {
   width: 100%;
-  max-width: 700px; 
+  max-width: 75vw;
   height: auto;
   border: 5px ridge white;
+}
+
+@media (min-width: 768px) {
+  .featuredworkimg {
+    height: 85vh;
+    width: auto;           /* important: prevents stretching */
+    object-fit: contain;   /* keeps full image visible */
+  }
 }
 
 .featuredmain {
