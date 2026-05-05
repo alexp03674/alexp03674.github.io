@@ -54,7 +54,10 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   card.innerHTML = `
     <a href="${p.link}">
-      <img src="${p.img}" class="card-img-top-painting card-img-top" loading="lazy">
+      <img src="${p.img}"
+      alt="${p.alt || p.title}"
+      class="card-img-top-painting card-img-top"
+      loading="lazy">
     </a>
 
     <div class="card-body">

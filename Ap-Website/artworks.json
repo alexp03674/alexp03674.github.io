@@ -3,263 +3,307 @@
     "title": "Alone Again",
     "img": "images/aloneagain.webp",
     "link": "paintingAloneagain.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Expressive Painting of a ghostly figure sitting in a tree over a blue field, with eyes watching behind"
   },
   {
     "title": "Artist Studio",
     "img": "images/artiststudio.webp",
     "link": "paintingartiststudio.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Close up painting of an angelic statue in an artists studio, with canvases turned away from the viewer"
   },
   {
     "title": "At the River",
     "img": "images/attheriver.webp",
     "link": "paintingattheriver.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Thick acrylic painting of a muddy red landscape, with a sword piercing two eyes above it"
   },
   {
     "title": "Attic Storage",
     "img": "images/atticstorage.webp",
     "link": "paintingatticstorage.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A loose acrylic painting of a teddy bear and grandfather clock in an attic with purple walls and a green floor, with cobwebs hanging in the ceiling"
   },
   {
     "title": "Axe Victim",
     "img": "images/axevictim.webp",
     "link": "paintingaxevictim.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Impressionistic figure done in acrylic with an axe in the side of their head, over an airy purple and blue watercolor background"
   },
   {
     "title": "Beanstalk",
     "img": "images/beanstalk.webp",
     "link": "paintingBeanstalk.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "An abstract, thin acrylic painting featuring a myth of ascent, with a beanstalk, rainbow, dna spiral, and king holding a torch"
   },
   {
     "title": "Bedroom",
     "img": "images/bedroom.webp",
     "link": "paintingBedroom.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Acrylic painting of a colorful tiled pattern surrounding a blue room, with a sketched figure sleeping on a bed, as eyes watch through the curtains"
   },
   {
     "title": "Blinding",
     "img": "images/blinding.webp",
     "link": "paintingblinding.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A dark acrylic figure holding a shining pink cross over a yellow and purple oil pastel background"
   },
   {
     "title": "Brain Damage",
     "img": "images/brain.webp",
     "link": "paintingbrain.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "An expressive painting of a red brain holding a knife and shield, with tape over its mouth, over a grey background"
   },
   {
     "title": "Camping Trip",
     "img": "images/campingtrip.webp",
     "link": "paintingcampingtrip.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A man sitting beside a campfire surrounded by dark trees in an acrylic painting"
+  },
+   {
+    "title": "Can you hear the music?",
+    "img": "images/musical.webp",
+    "link": "paintingmusical.html",
+    "type": "painting",
+     "alt": "A thin acrylic portrait of a woman with music notes surrounding her"
   },
   {
     "title": "Cataclysm",
     "img": "images/cataclysm.webp",
     "link": "paintingcataclysm.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Acrylic painting featuring a central figure emerging from a portal, with four nodes in each corner abstractly depicting the four seasons"
   },
   {
     "title": "Cliffside Storm",
     "img": "images/Cliffsidestorm.webp",
     "link": "paintingcliffsidestorm.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A figure standing, reaching over a sea of orange as a storm rages above them in an acrylic painting"
   },
   {"title": "Contingency",
     "img": "images/contingency.webp",
     "link": "paintingcontingency.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Expressionistic painting of a white, boney figure engulfed in orange flames"
   },
   {
     "title": "Crown of Barbed Wire",
     "img": "images/crownofthorns.webp",
     "link": "paintingcrownofthorns.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A tactile acrylic painting depicting multiple faces in one, with the upmost head wrapped in barbed wire"
   },
   {
     "title": "Euphoria, Touch the Sky",
     "img": "images/Euphoria.webp",
     "link": "paintingEuphoria.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Expressionistic painting of a white, muscular figure with glowing red and yellow energy swirling around them"
   },
   {
     "title": "Everything & Nothing",
     "img": "images/everything&nothing.webp",
     "link": "paintingeverything&nothing.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "An acrylic portrait of an expressionist face with color swirling out, as toy soldiers circle the head"
   },
   {
     "title": "Fading into Fire",
     "img": "images/fading.webp",
     "link": "paintingfading.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A painting featuring rising orange flames over a blue landscape"
   },
   {
     "title": "Fairytale??",
     "img": "images/fairytale.webp",
     "link": "paintingfairytale.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Acrylic painting of a subject seated in a room with their knees drawn to their chest, with fairytale symbolism surrounding them"
   },
   {
     "title": "Free Fall",
     "img": "images/freefall.webp",
     "link": "paintingfreefall.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "A living city atop a cliff, with a figure falling off the cliff into a bed of clouds, watched by a guardian angel"
   },
   {
     "title": "Gallery Walk",
     "img": "images/gallerywalk.webp",
     "link": "paintinggallerywalk.html",
-    "type": "painting"
+    "type": "painting",
+    "alt": "Expressive painting showing a man walking through a museum gallery featuring many smaller paintings inside"
   },
   {
     "title": "Garden Flowers",
     "img": "images/gardenflowers.webp",
     "link": "paintinggardenflowers.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Expressionist painting of green flowers beneath a red sky"
   },
   {
     "title": "Garden Storm",
     "img": "images/gardenstorm.webp",
     "link": "paintinggardenstorm.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Painted green and yellow flowers whirling under a rainstorm"
   },
   {
     "title": "Ghostly",
     "img": "images/ghostly.webp",
     "link": "paintingghostly.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "A ghost holding a hammer covered by vines and flowers in an acrylic painting"
   },
   {
     "title": "Ghoul",
     "img": "images/ghoul.webp",
     "link": "paintingghoul.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Oil painting portrait of a ghoulish looking man"
   },
   {
     "title": "Hiding",
     "img": "images/hiding.webp",
     "link": "paintinghiding.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Acrylic painting of a shield with a swan crest, with a figure behind it hiding beneath it and an umbrella"
   },
   {
     "title": "Home",
     "img": "images/home.webp",
     "link": "paintinghome.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Child-like watercolor painting of a landscape featuring a stereotypical house, tree, rainbow, and mountain"
   },
   {
     "title": "Inner Child",
     "img": "images/innerchild.webp",
     "link": "paintinginnerchild.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Acrylic painting with a figure with her knees drawn to her chest, while hands reach towards her. A depiction of a family is etched into a blue wall beside a painting of a house"
   },
   {
     "title": "In the Dark Mirror",
     "img": "images/inthedarkmirror.webp",
     "link": "paintinginthedarkmirror.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Thick acrylic painting, with a nude female subject looking into a mirror showing a dark reflection of herself, with a glowing sun in the corner above a figurine on a table"
   },
   {
     "title": "Jack-O-Lantern",
     "img": "images/jackolantern.webp",
     "link": "paintingjackolantern.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Abstract acrylic portrait of a man who resembles a jack-o-lantern"
   },
   {
     "title": "Jailed",
     "img": "images/jailed.webp",
     "link": "paintingjailed.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "An acrylic portrait of a man behind bars who has two faces, with a checkered blue and red pattern around the perimeter of the painting"
   },
   {
     "title": "Man Smoking",
     "img": "images/mansmoking.webp",
     "link": "paintingmansmoking.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Watercolor portrait of a yellow man smoking a cigarette"
   },
   {
     "title": "Museum Exhibition",
     "img": "images/museumexhibition.webp",
     "link": "paintingmuseumexhibition.html",
-    "type": "painting"
-  },
-  {
-    "title": "Can you hear the music?",
-    "img": "images/musical.webp",
-    "link": "paintingmusical.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "An abstract room painted in acrylic featuring a thin wire like sculpture of a person, with two red eyes on each wall looking down"
   },
   {
     "title": "Piggy",
     "img": "images/piggy.webp",
     "link": "paintingpiggy.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "An abstract portrait of a pig with multiple eyes and flowers growing inside its mouth, surrounded by thick off-white acrylic paint"
   },
   {
     "title": "Reaching for Something",
     "img": "images/reaching.webp",
     "link": "paintingreaching.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "A romantic acrylic painting of a caped figure on a cliff reaching towards a red cross on the other side of the sea"
   },
   {
     "title": "Rift",
     "img": "images/rift.webp",
     "link": "paintingrift.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "A red bride and a blue groom split by a dividing bar and surrounded by purple color in an acrylic painting"
   },
   {
     "title": "Soldier",
     "img": "images/soldier.webp",
     "link": "paintingsoldier.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Thick acrylic painting of axes over a colorful battlefield, with a cardinal looking at the viewer from the right side"
   },
   {
     "title": "Statue in the Garden",
     "img": "images/statueinthegarden.webp",
     "link": "paintingstatueinthegarden.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Expressive painting with a statue in the middle of a garden covered in white light beside a rainbow"
   },
   {
     "title": "Under The Rainbow",
     "img": "images/undertherainbow.webp",
     "link": "paintingundertherainbow.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Oil painting of hands reaching up towards a muted rainbow"
   },
   {
     "title": "When I died I thought they wouldn't miss me",
     "img": "images/whenidied.webp",
     "link": "paintingwhenidied.html",
-    "type": "painting"
+    "type": "painting",
+     "alt": "Acrylic painting depicting Christ's resurrection, with him blue faced and robed emerging from a cross"
   },
   {
     "title": "Action Hero",
     "img": "images/actionhero.webp",
     "link": "drawingactionhero.html",
-    "type": "drawing"
+    "type": "drawing",
+     "alt": "A pen drawing of a knight and fairy on paper pasted onto canvas and surrounded by green and silver acrylic paint"
   },
   {
     "title": "Cloudy",
     "img": "images/cloudy.webp",
     "link": "drawingcloudy.html",
-    "type": "drawing"
+    "type": "drawing",
+     "alt": "Wet watercolor pencil drawing of a man resembling a cloud on torn paper"
   },
   {
     "title":"Family",
     "img": "images/family.webp",
     "link": "drawingfamily.html",
-    "type": "drawing"
+    "type": "drawing",
+     "alt": "A marker drawing of balloon people hovering above a mountain range"
   },
   {
     "title": "Sun Spear",
     "img": "images/sunspear.webp",
     "link": "drawingsunspear.html",
-    "type": "drawing"
+    "type": "drawing",
+     "alt": "Pastel drawing of a suited man sitting, holding a purple spear beside a blue sun"
   }
 ]

@@ -54,7 +54,10 @@ drawings.forEach(d => {
 
   card.innerHTML = `
     <a href="${d.link}">
-      <img src="${d.img}" class="card-img-top-painting card-img-top" loading="lazy">
+      <img src="${d.img}"
+      alt="${d.alt || d.title}"
+      class="card-img-top-painting card-img-top" 
+      loading="lazy">
     </a>
     <div class="card-body">
       <h5 class="card-title">${d.title}</h5>
