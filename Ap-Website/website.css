@@ -275,7 +275,7 @@ h2 {
 }
 
 .artbody {
-    background-image: url(images/rift.webp);
+    background-image: url(images/gardenstorm.webp);
     background-color: rgb(149, 125, 255);
     background-blend-mode: difference;
 }
@@ -283,7 +283,7 @@ h2 {
 .artworkmain{
     max-width: 1150px;
     margin: 70px auto;
-    padding: 10px; 
+    padding: 10px;
     display: grid;
     place-items: center;
 }
