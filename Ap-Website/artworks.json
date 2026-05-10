@@ -281,7 +281,7 @@
   {
     "title": "Action Hero",
     "img": "images/actionhero.webp",
-    "link": "drawingactionhero.html",
+    "link": "DrawingActionHero.html",
     "type": "drawing",
      "alt": "A pen drawing of a knight and fairy on paper pasted onto canvas and surrounded by green and silver acrylic paint"
   },
